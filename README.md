@@ -10,6 +10,8 @@ Projeto feito com as seguintes tecnologias:
 
   • Figma 
   
+  • Vercel 
+  
   Projeto
   -----------------
 
